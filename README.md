@@ -3,5 +3,6 @@
 <br>
 <h2>Esse foi um projeto que aprendi no Dev Club usando html e css.</h2>
 
-<h3>Aqui usamos a tag header, main e section, para forncer um site clean e muito bem estruturado.</h3>
+<h3>Aqui usamos a tag header, main e section, para fornecer um site clean e muito bem estruturado.</h3>
 
+<img src="https://github.com/benildabs-dev/We-Care/blob/mockup/img/mockup.jpeg?raw=true"/>
